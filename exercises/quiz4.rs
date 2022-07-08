@@ -24,5 +24,5 @@ mod tests {
     #[test]
     fn test_my_macro_goodbye() {
         assert_eq!(my_macro!("goodbye!"), "Hello goodbye!");
-    }
+     }
 }
